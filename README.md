@@ -2,6 +2,8 @@
 
 Create a github pixel identicon.
 
+![Identicon](banana.png)
+
 ## Installation
 
 * Run `mix setup` to setup project and install dependencies
